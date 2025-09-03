@@ -82,20 +82,3 @@ Rigurosa, creativa y proactiva. Ambiciosa y con entusiasmo por seguir creciendo 
   <li><a href="https://github.com/juliana-rar/sushiuikit">Gestión de pedidos en Blazor</a></li>
 </ul>
 
-
----
-
-👉 Lo que debes hacer:
-
-1. Copia este código en el archivo README.md de tu repositorio.
-
-
-2. GitHub renderiza Markdown con soporte para HTML, así que se verá como una página estructurada, con enlaces y títulos.
-
-
-
-
----
-
-¿Quieres que además te prepare una versión con iconos (YouTube, LinkedIn, GitHub, Instagram) como el ejemplo de Josh para que tu portafolio sea más visual?
-
