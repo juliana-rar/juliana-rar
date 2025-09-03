@@ -1,5 +1,3 @@
-¡Perfecto! 🙌 Entiendo, lo que quieres es que tu portafolio en GitHub esté escrito en HTML dentro del README.md, tal como el ejemplo que mostraste.
-Aquí tienes tu información del CV (la de la imagen) transformada a un formato HTML listo para GitHub:
 
 <h1>👩‍💻 Hola, soy Juliana de los Ríos</h1>
 
