@@ -1,54 +1,103 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+¡Perfecto! 🙌 Entiendo, lo que quieres es que tu portafolio en GitHub esté escrito en HTML dentro del README.md, tal como el ejemplo que mostraste.
+Aquí tienes tu información del CV (la de la imagen) transformada a un formato HTML listo para GitHub:
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>👩‍💻 Hola, soy Juliana de los Ríos</h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<p>
+📍 Vic, Barcelona <br/>
+📧 <a href="mailto:ingrid.julianadlrr@gmail.com">ingrid.julianadlrr@gmail.com</a> <br/>
+📱 +34 640238102 <br/>
+<a href="https://github.com/juliana-rar">GitHub</a> | 
+<a href="https://www.linkedin.com/in/tu-link">LinkedIn</a>
+</p>
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+<h2>🌟 Sobre mí</h2>
+<p>
+Me apasionan los nuevos retos y los nuevos conocimientos.  
+Rigurosa, creativa y proactiva. Ambiciosa y con entusiasmo por seguir creciendo y evolucionando en la profesión.  
+</p>
+<p><b>Disponibilidad:</b> Inmediata</p>
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h2>🗣️ Idiomas</h2>
+<ul>
+  <li>Español: Nativo</li>
+  <li>Catalán: Intermedio</li>
+  <li>Inglés: Intermedio</li>
+  <li>Francés: DELF B1</li>
+</ul>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🎓 Formación</h2>
+<p><b>FP Superior ASIX – Perfil Ciberseguridad</b> (La Salle Manlleu, 2024 – Actual)</p>
+<ul>
+  <li>Creación y mantenimiento de bases de datos relacionales y no relacionales</li>
+  <li>Manejo de sistemas ERP</li>
+  <li>Gestión de copias de seguridad</li>
+</ul>
 
-Here are some ideas to get you started:
+<p><b>Bachillerato Tecnológico</b> (Institut Josep Brugulat, 2017 – 2020)</p>
+<ul>
+  <li>Conocimientos de electrónica y tecnologías industriales</li>
+  <li>Dibujo técnico en AutoCAD</li>
+  <li>Uso de Illustrator y Photoshop</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>💻 Sector IT</h2>
+<ul>
+  <li><b>DevOps & Kubernetes</b>: Podman Compose, Django, PostgreSQL, NGINX</li>
+  <li><b>Servidores Linux & Windows</b>: usuarios, grupos, permisos, seguridad física</li>
+  <li><b>Redes Cisco</b>: VLANs, ACLs, Packet Tracer</li>
+  <li><b>Selenium</b>: <a href="https://github.com/juliana-rar/seleniumexcel">Automatización con Excel</a></li>
+</ul>
+
+---
+
+<h2>🖥️ Desarrollo de Software</h2>
+<ul>
+  <li><b>Django / Python</b>  
+    <ul>
+      <li><a href="https://github.com/juliana-rar/sigfrid">Sistema de login y panel de administración</a></li>
+      <li><a href="https://github.com/juliana-rar/medicinalternativa">Web de medicina alternativa con reservas online</a></li>
+    </ul>
+  </li>
+  <li><b>Blazor / C#</b>  
+    <ul>
+      <li><a href="https://github.com/juliana-rar/sushiuikit">Pedidos en tiempo real con cocina en vivo</a></li>
+    </ul>
+  </li>
+</ul>
+
+---
+
+<h2>🚀 Proyectos Destacados</h2>
+<ul>
+  <li><a href="https://github.com/juliana-rar/seleniumexcel">Automatización de Excel con Selenium</a></li>
+  <li><a href="https://github.com/juliana-rar/sigfrid">Panel de posts en Django</a></li>
+  <li><a href="https://github.com/juliana-rar/medicinalternativa">Reservas online con autenticación</a></li>
+  <li><a href="https://github.com/juliana-rar/sushiuikit">Gestión de pedidos en Blazor</a></li>
+</ul>
+
+
+---
+
+👉 Lo que debes hacer:
+
+1. Copia este código en el archivo README.md de tu repositorio.
+
+
+2. GitHub renderiza Markdown con soporte para HTML, así que se verá como una página estructurada, con enlaces y títulos.
+
+
+
+
+---
+
+¿Quieres que además te prepare una versión con iconos (YouTube, LinkedIn, GitHub, Instagram) como el ejemplo de Josh para que tu portafolio sea más visual?
+
