@@ -3,7 +3,7 @@
 
 <p>
 📍 Vic, Barcelona <br/>
-📧 <a href="mailto:ingrid.julianadlrr@gmail.com">ingrid.julianadlrr@gmail.com</a> <br/>
+📧 <a href="mailto:ingrid.julianadlr@gmail.com">ingrid.julianadlrr@gmail.com</a> <br/>
 📱 +34 640238102 <br/>
 <a href="https://github.com/juliana-rar">GitHub</a> | 
 <a href="https://www.linkedin.com/in/ingridjuliana/">LinkedIn</a>
