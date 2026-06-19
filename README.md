@@ -1,6 +1,3 @@
-
-<h1>👩‍💻 Hola, soy Juliana de los Ríos</h1>
-
 <p>
 📍 Vic, Barcelona <br/>
 📧 <a href="mailto:ingrid.julianadlr@gmail.com">ingrid.julianadlr@gmail.com</a> <br/>
