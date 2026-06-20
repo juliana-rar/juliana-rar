@@ -3,28 +3,18 @@
 <a href="https://github.com/juliana-rar">GitHub</a> | 
 <a href="https://www.linkedin.com/in/ingridjuliana/">LinkedIn</a>
 </p>
-
----
-
-<h2>🌟 Sobre mí</h2>
 <p>
 Me apasionan los nuevos retos y los nuevos conocimientos.  
 Rigurosa, creativa y proactiva. Ambiciosa y con entusiasmo por seguir creciendo y evolucionando en la profesión.  
 </p>
-<p><b>Disponibilidad:</b> Inmediata</p>
-
 ---
-
-<h2>🗣️ Idiomas</h2>
 <ul>
   <li>Español: Nativo</li>
   <li>Catalán: Intermedio</li>
   <li>Inglés: Intermedio</li>
   <li>Francés: DELF B1</li>
 </ul>
-
 ---
-
 <h2>🎓 Formación</h2>
 <p><b>FP Superior ASIX – Perfil Ciberseguridad</b> (La Salle Manlleu, 2024 – Actual)</p>
 <ul>
