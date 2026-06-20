@@ -1,5 +1,4 @@
 <p>
-📍 Vic, Barcelona <br/>
 📧 <a href="mailto:ingrid.julianadlr@gmail.com">ingrid.julianadlr@gmail.com</a> <br/>
 <a href="https://github.com/juliana-rar">GitHub</a> | 
 <a href="https://www.linkedin.com/in/ingridjuliana/">LinkedIn</a>
