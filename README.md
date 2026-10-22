@@ -11,7 +11,7 @@ Rigurosa, creativa y proactiva. Ambiciosa y con entusiasmo por seguir creciendo 
 <ul>
   <li>Español: Nativo</li>
   <li>Catalán: Intermedio</li>
-  <li>Inglés: Intermedio</li>
+  <li>Inglés: Avanzado</li>
   <li>Francés: DELF B1</li>
 </ul>
 ---
